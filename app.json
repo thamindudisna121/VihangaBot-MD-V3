@@ -1,8 +1,8 @@
 {
-    "name": "VIHANA MD",
-    "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
+    "name": "𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 𝐌𝐃 ",
+    "description": "𝔾𝕖𝕟𝕒𝕣𝕖𝕥𝕖𝕕 𝔹𝕐:- 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸",
+   
+    "logo": "https://drive.google.com/file/d/1UMF22lr0UoVqZkFNyZZ1NbpIEIFpo7h3/view?usp=sharing",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
