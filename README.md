@@ -1,8 +1,8 @@
-# VIHANGA-BOT-MD
+# 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 𝐌𝐃 
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    Vihanga MD V3...
+    𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 𝐌𝐃  V3...
 
     [©] New Features
 
@@ -15,7 +15,7 @@
      > and more...
     
 
-    [©] Vihanga MD V4 Upcoming Features[Not Relesed]
+    [©] 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 𝐌𝐃  V4 Upcoming Features[Not Relesed]
 
      > Playstore Apk Downloder
      > Playstore Apk searcher
@@ -27,35 +27,20 @@
    
    
    
-   ```Thanks Fro using Vihanga MD```
+   ```Thanks Fro using 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 𝐌𝐃 ```
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
-# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+# Support Group <a href="https://chat.whatsapp.com/Gwl3IPCaGiu2VScTv4KS2U"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
- </a>
 
-</p>
-
-<div align="center">
-
-  <p align="center">
-
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
-
-</p>
-
-  <p align="center">
-
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸 𝐌𝐃 D" </a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
  
  ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
@@ -70,13 +55,3 @@
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
 
-## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
